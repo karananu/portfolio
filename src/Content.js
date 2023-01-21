@@ -23,7 +23,7 @@ import avatar3 from "./assets/images/Testimonials/avatar3.png";
 import avatar4 from "./assets/images/Testimonials/avatar4.png";
 
 import Hireme_person from "./assets/images/Hireme/person.png";
-import Hireme_person2 from "./assets/images/Hireme/person2.png";
+import Hireme_person2 from "./assets/images/Hireme/person.png";
 
 // import icons from react-icons
 import { GrMail } from "react-icons/gr";
@@ -58,18 +58,18 @@ export const content = {
     },
   ],
   hero: {
-    title: "Web Developer",
-    firstName: "JOHN",
-    LastName: "ALEX",
+    title: "FULL STACK DEVELOPER",
+    firstName: "TECH",
+    LastName: "SINU",
     btnText: "Hire Me",
     image: Hero_person,
     hero_content: [
       {
-        count: "8+",
+        count: "4+",
         text: "Years of Experinse in Web development",
       },
       {
-        count: "20+",
+        count: "15+",
         text: "Projects Worked in my career",
       },
     ],
@@ -79,33 +79,33 @@ export const content = {
     subtitle: "MY TOP SKILLS",
     skills_content: [
       {
-        name: "Figma",
-        para: "Lorem ipsum text  dummy",
+        name: "Problem Solving",
+        para: "Problem-solving is the process of identifying, analyzing, and resolving a problem. ",
         logo: figma,
       },
       {
         name: "Node js",
-        para: "Lorem ipsum text  dummy",
+        para: "Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. It is an open-source, cross-platform, back-end technology that allows developers to run JavaScript on the server-side",
         logo: nodejs,
       },
       {
         name: "Adobe Photoshop",
-        para: "Lorem ipsum text  dummy",
+        para: "Adobe Photoshop is a widely-used, professional-grade image editing software that allows users to manipulate, enhance, and create digital images.",
         logo: ps,
       },
       {
         name: "React js",
-        para: "Lorem ipsum text  dummy",
+        para: "Easy to learn: Python's simple and readable syntax makes it an excellent choice for beginners and those new to programming.",
         logo: reactjs,
       },
       {
-        name: "Sketch",
-        para: "Lorem ipsum text  dummy",
+        name: "Competitive Programming",
+        para: "Competitive programming is the practice of solving algorithmic problems under a time constraint, often in a competitive environment such as a coding contest.",
         logo: sketch,
       },
       {
         name: "Python",
-        para: "Lorem ipsum text  dummy",
+        para: "Python is a powerful and versatile programming language ",
         logo: python,
       },
     ],
@@ -117,17 +117,17 @@ export const content = {
     service_content: [
       {
         title: "Web Development",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        para: "At the core of web development is the ability to create and design user-friendly and visually appealing websites that are optimized for both desktop and mobile devices. This requires a solid understanding of web design principles, including layout, typography, and color theory, as well as a good eye for detail and an understanding of how to create engaging user experiences.",
         logo: services_logo1,
       },
       {
         title: "ui / ux DESIGNING",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        para: "UI/UX design is the process of designing and developing the user interface and user experience of a website or application. It involves a combination of design, research, and development skills to create interfaces that are both visually appealing and easy to use. UI (User Interface) design is the process of designing the layout, navigation, and overall look and feel of a website or application. This includes everything from the color scheme and typography to the placement of buttons and other interactive elements. ",
         logo: services_logo2,
       },
       {
         title: "PhotoShop Editing",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        para: "Photoshop is a powerful image editing software that allows users to manipulate and enhance digital images in a variety of ways. Some of the key features and capabilities of Photoshop includeLayer-based editing: Allows users to make changes to specific parts of an image without affecting the rest of the image.",
         logo: services_logo3,
       },
     ],
@@ -186,7 +186,7 @@ export const content = {
     subtitle: "FOR YOUR PROJECTS",
     image1: Hireme_person,
     image2: Hireme_person2,
-    para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+    para: " If you're looking for a full stack developer who can deliver high-quality software solutions on time and on budget, then I am the right person for the job. I am confident that I can make a valuable contribution to your team and help you achieve your business goals",
     btnText: "Hire Me",
   },
   Contact: {
@@ -194,19 +194,19 @@ export const content = {
     subtitle: "GET IN TOUCH",
     social_media: [
       {
-        text: "codeaprogram@gmail.com",
+        text: "karanrana3095@gmail.com",
         icon: GrMail,
-        link: "mailto:codeaprogram@gmail.com",
+        link: "mailto:karanrana3095@gmail.com",
       },
       {
-        text: "+91 1234 56778",
+        text: "+91 9798316854",
         icon: MdCall,
         link: "https://wa.me/1234567890",
       },
       {
-        text: "codeaprogram",
+        text: "TechSinu",
         icon: BsInstagram,
-        link: "https://www.instagram.com/codeaprogram/",
+        link: "https://www.instagram.com/techsinu/",
       },
     ],
   },
